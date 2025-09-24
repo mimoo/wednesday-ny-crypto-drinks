@@ -1,0 +1,21 @@
+{
+  "name": "wednesday-ny-crypto-drinks",
+  "version": "1.0.0",
+  "description": "Wednesday NY Crypto Drinks - Advanced Cryptography in Blockchains",
+  "main": "generate-ics.js",
+  "scripts": {
+    "generate": "node generate-ics.js",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "crypto",
+    "blockchain",
+    "events",
+    "calendar"
+  ],
+  "author": "cryptodavidw",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

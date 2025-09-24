@@ -1,0 +1,99 @@
+# Wednesday NY Crypto Drinks Events
+# Advanced Cryptography in Blockchains
+
+events:
+  - date: 2025-01-08
+    startTime: "18:00"
+    endTime: "21:00"
+    title: "Wednesday NY Crypto Drinks"
+    topic: "Zero-Knowledge Proofs"
+    description: |
+      Advanced Cryptography in Blockchains - Weekly Meetup
+
+      Topic: Zero-Knowledge Proofs and their applications
+
+      Join us for drinks and discussions about the latest in blockchain cryptography.
+
+      Location: Private (shared via group chat)
+
+      To join the group chat, DM @cryptodavidw on Twitter
+
+  - date: 2025-01-15
+    startTime: "18:00"
+    endTime: "21:00"
+    title: "Wednesday NY Crypto Drinks"
+    topic: "Multi-Party Computation"
+    description: |
+      Advanced Cryptography in Blockchains - Weekly Meetup
+
+      Topic: Multi-Party Computation in decentralized systems
+
+      Join us for drinks and discussions about the latest in blockchain cryptography.
+
+      Location: Private (shared via group chat)
+
+      To join the group chat, DM @cryptodavidw on Twitter
+
+  - date: 2025-01-22
+    startTime: "18:00"
+    endTime: "21:00"
+    title: "Wednesday NY Crypto Drinks"
+    topic: "Homomorphic Encryption"
+    description: |
+      Advanced Cryptography in Blockchains - Weekly Meetup
+
+      Topic: Homomorphic Encryption and privacy-preserving smart contracts
+
+      Join us for drinks and discussions about the latest in blockchain cryptography.
+
+      Location: Private (shared via group chat)
+
+      To join the group chat, DM @cryptodavidw on Twitter
+
+  - date: 2025-01-29
+    startTime: "18:00"
+    endTime: "21:00"
+    title: "Wednesday NY Crypto Drinks"
+    topic: "Threshold Cryptography"
+    description: |
+      Advanced Cryptography in Blockchains - Weekly Meetup
+
+      Topic: Threshold signatures and distributed key management
+
+      Join us for drinks and discussions about the latest in blockchain cryptography.
+
+      Location: Private (shared via group chat)
+
+      To join the group chat, DM @cryptodavidw on Twitter
+
+  - date: 2025-02-05
+    startTime: "18:00"
+    endTime: "21:00"
+    title: "Wednesday NY Crypto Drinks"
+    topic: "Post-Quantum Cryptography"
+    description: |
+      Advanced Cryptography in Blockchains - Weekly Meetup
+
+      Topic: Preparing blockchains for quantum computing threats
+
+      Join us for drinks and discussions about the latest in blockchain cryptography.
+
+      Location: Private (shared via group chat)
+
+      To join the group chat, DM @cryptodavidw on Twitter
+
+  - date: 2025-02-12
+    startTime: "18:00"
+    endTime: "21:00"
+    title: "Wednesday NY Crypto Drinks"
+    topic: "Verifiable Delay Functions"
+    description: |
+      Advanced Cryptography in Blockchains - Weekly Meetup
+
+      Topic: VDFs and their role in consensus mechanisms
+
+      Join us for drinks and discussions about the latest in blockchain cryptography.
+
+      Location: Private (shared via group chat)
+
+      To join the group chat, DM @cryptodavidw on Twitter
