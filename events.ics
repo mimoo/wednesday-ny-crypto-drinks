@@ -25,93 +25,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1758675688565-i1hqgcpn6m@wednesday-ny-crypto.com
-DTSTAMP:20250923T210128Z
-DTSTART;TZID=America/New_York:20250107T180000
-DTEND;TZID=America/New_York:20250107T210000
+UID:1758680011160-5woo6e0uyxa@wednesday-ny-crypto.com
+DTSTAMP:20250923T221331Z
+DTSTART;TZID=America/New_York:20250930T170000
+DTEND;TZID=America/New_York:20250930T200000
 SUMMARY:Wednesday NY Crypto Drinks
-DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nTopic: Zero-Knowledge Proofs and their applications\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nLocation: Private (shared via group chat)\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
-CATEGORIES:Zero-Knowledge Proofs
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1758675688565-6p3wtletzo@wednesday-ny-crypto.com
-DTSTAMP:20250923T210128Z
-DTSTART;TZID=America/New_York:20250114T180000
-DTEND;TZID=America/New_York:20250114T210000
-SUMMARY:Wednesday NY Crypto Drinks
-DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nTopic: Multi-Party Computation in decentralized systems\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nLocation: Private (shared via group chat)\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
-CATEGORIES:Multi-Party Computation
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1758675688565-w1u1uoq567d@wednesday-ny-crypto.com
-DTSTAMP:20250923T210128Z
-DTSTART;TZID=America/New_York:20250121T180000
-DTEND;TZID=America/New_York:20250121T210000
-SUMMARY:Wednesday NY Crypto Drinks
-DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nTopic: Homomorphic Encryption and privacy-preserving smart contracts\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nLocation: Private (shared via group chat)\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
-CATEGORIES:Homomorphic Encryption
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1758675688565-mdbimgus5nj@wednesday-ny-crypto.com
-DTSTAMP:20250923T210128Z
-DTSTART;TZID=America/New_York:20250128T180000
-DTEND;TZID=America/New_York:20250128T210000
-SUMMARY:Wednesday NY Crypto Drinks
-DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nTopic: Threshold signatures and distributed key management\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nLocation: Private (shared via group chat)\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
-CATEGORIES:Threshold Cryptography
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1758675688565-g30i67swbhj@wednesday-ny-crypto.com
-DTSTAMP:20250923T210128Z
-DTSTART;TZID=America/New_York:20250204T180000
-DTEND;TZID=America/New_York:20250204T210000
-SUMMARY:Wednesday NY Crypto Drinks
-DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nTopic: Preparing blockchains for quantum computing threats\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nLocation: Private (shared via group chat)\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
-CATEGORIES:Post-Quantum Cryptography
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1758675688565-eoojhr0zv8c@wednesday-ny-crypto.com
-DTSTAMP:20250923T210128Z
-DTSTART;TZID=America/New_York:20250211T180000
-DTEND;TZID=America/New_York:20250211T210000
-SUMMARY:Wednesday NY Crypto Drinks
-DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nTopic: VDFs and their role in consensus mechanisms\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nLocation: Private (shared via group chat)\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
-CATEGORIES:Verifiable Delay Functions
+DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nCheck super secret telegram groupchat for information on venue\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
+CATEGORIES:Advanced Cryptography
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
