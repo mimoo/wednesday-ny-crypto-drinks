@@ -25,8 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1759956799954-phhk5052iqa@wednesday-ny-crypto.com
-DTSTAMP:20251008T165319Z
+UID:1762287117097-0y0emgillxrf@wednesday-ny-crypto.com
+DTSTAMP:20251104T151157Z
 DTSTART;TZID=America/New_York:20250930T170000
 DTEND;TZID=America/New_York:20250930T200000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -41,10 +41,26 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1759956799954-xjfpdgkkl2@wednesday-ny-crypto.com
-DTSTAMP:20251008T165319Z
+UID:1762287117098-4vrwcikoaum@wednesday-ny-crypto.com
+DTSTAMP:20251104T151157Z
 DTSTART;TZID=America/New_York:20251014T170000
 DTEND;TZID=America/New_York:20251014T200000
+SUMMARY:Wednesday NY Crypto Drinks
+DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nCheck super secret telegram groupchat for information on venue\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
+CATEGORIES:Advanced Cryptography
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1762287117098-2luyu9lgm0v@wednesday-ny-crypto.com
+DTSTAMP:20251104T151157Z
+DTSTART;TZID=America/New_York:20251104T180000
+DTEND;TZID=America/New_York:20251104T210000
 SUMMARY:Wednesday NY Crypto Drinks
 DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nCheck super secret telegram groupchat for information on venue\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
 CATEGORIES:Advanced Cryptography
