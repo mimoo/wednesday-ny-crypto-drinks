@@ -43,3 +43,17 @@ events:
       Check super secret telegram groupchat for information on venue
 
       To join the group chat, DM @cryptodavidw on Twitter
+
+  - date: 2025-11-12
+    startTime: "18:30"
+    endTime: "21:30"
+    title: "Wednesday NY Crypto Drinks"
+    topic: "Advanced Cryptography"
+    description: |
+      Advanced Cryptography in Blockchains - Weekly Meetup
+
+      Join us for drinks and discussions about the latest in blockchain cryptography.
+
+      Check super secret telegram groupchat for information on venue
+
+      To join the group chat, DM @cryptodavidw on Twitter
