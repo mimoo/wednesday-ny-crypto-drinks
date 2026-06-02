@@ -25,8 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1776355502097-cu87r5gk38a@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-51ivnq1o944@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20250930T170000
 DTEND;TZID=America/New_York:20250930T200000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -41,8 +41,8 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1776355502097-t978axwupl@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-ojmwvnhobv@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20251014T170000
 DTEND;TZID=America/New_York:20251014T200000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -57,8 +57,8 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1776355502097-jdu7gbf20q@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-6jd35xxktr@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20251104T180000
 DTEND;TZID=America/New_York:20251104T210000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -73,8 +73,8 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1776355502097-cjzfvn6i0ie@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-d5c5gpcyzy5@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20251111T183000
 DTEND;TZID=America/New_York:20251111T213000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -89,8 +89,8 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1776355502097-wfz2i49z3i@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-eg9lazl8wc@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20251125T180000
 DTEND;TZID=America/New_York:20251125T210000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -105,8 +105,8 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1776355502097-m2oxnh6zafn@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-tenpgd3ina9@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20260210T170000
 DTEND;TZID=America/New_York:20260210T200000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -121,8 +121,8 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1776355502097-c2z2ngahmgv@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-0ec33gwu0ky@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20260224T180000
 DTEND;TZID=America/New_York:20260224T210000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -137,8 +137,8 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1776355502097-nirnfiqvuq@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-lefe7qyammj@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20260217T180000
 DTEND;TZID=America/New_York:20260217T210000
 SUMMARY:Wednesday NY Crypto Drinks
@@ -153,10 +153,26 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1776355502097-unlmzykacoe@wednesday-ny-crypto.com
-DTSTAMP:20260416T120502Z
+UID:1780361490847-vhb18nh0smk@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T200000
+SUMMARY:Wednesday NY Crypto Drinks
+DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nCheck super secret telegram groupchat for information on venue\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
+CATEGORIES:Advanced Cryptography
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1780361490848-unno65kg7uq@wednesday-ny-crypto.com
+DTSTAMP:20260601T205130Z
+DTSTART;TZID=America/New_York:20260602T170000
+DTEND;TZID=America/New_York:20260602T200000
 SUMMARY:Wednesday NY Crypto Drinks
 DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nCheck super secret telegram groupchat for information on venue\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
 CATEGORIES:Advanced Cryptography
