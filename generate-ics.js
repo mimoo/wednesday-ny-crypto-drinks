@@ -64,16 +64,23 @@ function generateICS(eventsFile) {
 
         if (data.events && Array.isArray(data.events)) {
             data.events.forEach(event => {
-                const eventDate = new Date(event.date);
+                // js-yaml parses `date: 2026-07-22` as a Date at UTC midnight. Read the
+                // calendar-day fields back out in UTC so the local-time Date below lands
+                // on the day that was actually written in the YAML.
+                const parsed = new Date(event.date);
+                const [year, month, day] = [
+                    parsed.getUTCFullYear(),
+                    parsed.getUTCMonth(),
+                    parsed.getUTCDate(),
+                ];
 
                 const startTime = event.startTime || '18:00';
                 const [startHour, startMinute] = startTime.split(':').map(Number);
-                eventDate.setHours(startHour, startMinute, 0);
+                const eventDate = new Date(year, month, day, startHour, startMinute, 0);
 
                 const endTime = event.endTime || '21:00';
-                const endDate = new Date(eventDate);
                 const [endHour, endMinute] = endTime.split(':').map(Number);
-                endDate.setHours(endHour, endMinute, 0);
+                const endDate = new Date(year, month, day, endHour, endMinute, 0);
 
                 icsContent.push('BEGIN:VEVENT');
                 icsContent.push(`UID:${generateUID()}`);
