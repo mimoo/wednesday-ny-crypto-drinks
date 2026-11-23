@@ -216,4 +216,20 @@ DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:1795460266244-yudtttlwsho@wednesday-ny-crypto.com
+DTSTAMP:20261123T185746Z
+DTSTART;TZID=America/New_York:20261202T180000
+DTEND;TZID=America/New_York:20261202T210000
+SUMMARY:Wednesday NY Crypto Drinks
+DESCRIPTION:Advanced Cryptography in Blockchains - Weekly Meetup\n\nJoin us for drinks and discussions about the latest in blockchain cryptography.\n\nCheck super secret telegram groupchat for information on venue\n\nTo join the group chat\, DM @cryptodavidw on Twitter\n
+CATEGORIES:Advanced Cryptography
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wednesday NY Crypto Drinks starting soon!
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
